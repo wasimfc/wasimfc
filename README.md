@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **Wasim Akram**
+# 👋 Hi, I'm Wasim Akram
 
-### **Data Engineer · Data Analyst · Business Analyst**
+### Data Engineer · Data Analyst · Business Analyst
 
 <a href="https://linkedin.com/in/wasimakram17" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
@@ -13,8 +13,10 @@
 ---
 
 ## 🚀 About Me
-I’m a data professional focused on **scalable data pipelines**, **cloud analytics**, and **business intelligence**.  
-My toolkit includes **Azure**, **Databricks**, **SQL**, **Python**, and **Apache Spark** to transform raw data into clean models and actionable insights.
+I’m Wasim, a data professional passionate about transforming data into strategic insights and efficient systems.  
+I focus on building scalable pipelines, optimizing analytics workflows in the cloud, and creating data models that guide business decisions.  
+
+Proficient in Azure, Databricks, SQL, Python, and Apache Spark, I bridge the gap between engineering and analytics by designing reliable, outcome-driven data solutions.
 
 ---
 
@@ -22,10 +24,10 @@ My toolkit includes **Azure**, **Databricks**, **SQL**, **Python**, and **Apache
 
 ### ☁️ Cloud & Data Engineering
 - Azure Data Factory • Azure Data Lake • Azure Synapse Analytics  
-- **Azure Databricks** • Azure SQL Database • Azure Functions
+- Azure Databricks • Azure SQL Database • Azure Functions
 
 ### ⚡ Big Data & Distributed Computing
-- **Apache Spark** • **PySpark** • Spark SQL  
+- Apache Spark • PySpark • Spark SQL  
 - Databricks Workflows & Notebooks
 
 ### 🗄️ Databases, ETL & Data Modeling
@@ -34,7 +36,7 @@ My toolkit includes **Azure**, **Databricks**, **SQL**, **Python**, and **Apache
 
 ### 🐍 Programming & Analytics
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- ML fundamentals (scikit-learn) • JavaScript • C# / ASP.NET Core • HTML/CSS
+- Machine Learning Fundamentals (scikit-learn) • JavaScript • C# / ASP.NET Core • HTML/CSS
 
 ### 📊 Business Intelligence
 - Power BI (DAX, Power Query, Data Modeling) • Tableau • Microsoft Excel
@@ -58,8 +60,16 @@ My toolkit includes **Azure**, **Databricks**, **SQL**, **Python**, and **Apache
 ---
 
 ## 📬 Get in Touch
-- 📧 **Email:** [wasimxcloud@gmail.com](mailto:wasimxcloud@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/wasimakram17](https://linkedin.com/in/wasimakram17)
+
+<p align="center">
+  <a href="https://linkedin.com/in/wasimakram17" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:wasimxcloud@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px" alt="Email"/>
+  </a>
+</p>
 
 ---
 
