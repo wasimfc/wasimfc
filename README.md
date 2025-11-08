@@ -86,6 +86,8 @@ I'm currently learning Apache Spark, PySpark, and Databricks to enhance my big d
 ### 🐍 Programming & Analytics
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45px" alt=".NET Core"/>
@@ -97,7 +99,8 @@ I'm currently learning Apache Spark, PySpark, and Databricks to enhance my big d
 </p>
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Machine Learning Fundamentals (scikit-learn) • JavaScript • C# / ASP.NET Core • HTML/CSS
+- Java • C++ • JavaScript • C# / ASP.NET Core • HTML/CSS  
+- Machine Learning Fundamentals (scikit-learn)
 
 ---
 
@@ -105,7 +108,7 @@ I'm currently learning Apache Spark, PySpark, and Databricks to enhance my big d
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45px" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45px" alt="Tableau"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Microsoft_Excel_logo_logos-512.png" width="45px" alt="Excel"/>
+  <img src="https://cdn.brandcrowd.com/public/svg/brands/logo/microsoft-excel.svg" width="45px" alt="Excel"/>
 </p>
 
 - Power BI (DAX, Power Query, Data Modeling) • Tableau • Microsoft Excel
