@@ -14,10 +14,11 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45px" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45px" alt="Databricks"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45px" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45px" alt="Databricks"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45px" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45px" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45px" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45px" alt="SQL"/>
 </p>
 
 ---
@@ -35,17 +36,10 @@ Proficient in Azure, Databricks, SQL, Python, and Apache Spark, I bridge the gap
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45px" alt="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="PySpark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45px" alt="Databricks"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45px" alt="Databricks"/>
 </p>
 
-I'm currently deepening my expertise in Apache Spark, PySpark, and Databricks to strengthen my distributed data processing and cloud engineering skills.
-
-### 🎯 Learning Progress Tracker
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-⭐%2070%25-orange?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-⚙️%2065%25-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-🔥%2060%25-FF4C4C?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+I'm currently learning Apache Spark, PySpark, and Databricks to enhance my big data and distributed computing skills.
 
 ---
 
@@ -54,14 +48,14 @@ I'm currently deepening my expertise in Apache Spark, PySpark, and Databricks to
 ### ☁️ Cloud & Data Engineering
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45px" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45px" alt="Databricks"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45px" alt="Databricks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45px" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="45px" alt="Azure DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45px" alt="VS Code"/>
 </p>
 
 - Azure Data Factory • Azure Data Lake • Azure Synapse Analytics  
-- Azure Databricks • Azure SQL Database • Azure Functions
+- Databricks • Azure SQL Database • Azure Functions
 
 ---
 
@@ -69,7 +63,7 @@ I'm currently deepening my expertise in Apache Spark, PySpark, and Databricks to
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45px" alt="Apache"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" alt="PySpark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45px" alt="Databricks"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45px" alt="Databricks"/>
 </p>
 
 - Apache Spark • PySpark • Spark SQL  
@@ -109,9 +103,9 @@ I'm currently deepening my expertise in Apache Spark, PySpark, and Databricks to
 
 ### 📊 Business Intelligence
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45px" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45px" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45px" alt="Excel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45px" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45px" alt="Tableau"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Microsoft_Excel_logo_logos-512.png" width="45px" alt="Excel"/>
 </p>
 
 - Power BI (DAX, Power Query, Data Modeling) • Tableau • Microsoft Excel
