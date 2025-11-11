@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Wasim  
+<h1>👋 Hi, I'm Wasim</h1>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Data+Engineer;Full+Stack+Developer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Data+Engineer;Full+Stack+Developer" alt="Typing Animation" />
 
-💡 Experienced in designing and implementing data-driven and web-based solutions using Azure, Python, and JavaScript frameworks.
+<p>
+Full Stack Developer & Azure Data Engineer with 1+ years of experience in React, Node.js, MongoDB, Azure Data Factory, and Azure Databricks, skilled in building scalable web applications and advanced data solutions. Passionate about delivering high-performance and efficient systems.
+</p>
 
 </div>
 
@@ -41,23 +43,6 @@
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Tech Stack Badges -->
-  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
