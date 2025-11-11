@@ -1,80 +1,79 @@
-<div style="color:#00022e; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
-# ✨ Wasim Akram
+# 👋 Hi, I'm Wasim  
 
-**Azure Data Engineer · MERN Developer**  
-Designing scalable data pipelines, analytical solutions, and full‑stack web applications.
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Data+Engineer;Full+Stack+Developer" alt="Typing Animation" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&width=800&lines=Azure+Data+Engineer;MERN+Developer;Data+Pipelines+%26+Lakehouse+Design;Azure+%7C+Databricks+%7C+PySpark+%7C+MERN" />
-</p>
+💡 Experienced in designing and implementing data-driven and web-based solutions using Azure, Python, and JavaScript frameworks.
 
----
-
-## 🌟 About
-
-Cloud-native data engineer and full-stack developer specializing in scalable ETL/ELT pipelines, analytics platforms, and modern web applications.  
-Proficient in Azure, Databricks, and lakehouse architectures with a focus on performance, automation, and reliability.
-
-**Core Skills:** ETL/ELT · PySpark · Azure Data Engineering · Databricks · Lakehouse · Power BI · REST APIs · CI/CD
+</div>
 
 ---
 
-## 🛠️ Technologies
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-</p>
+### 🚀 About Me  
+- 1+ years of experience building data solutions with Azure Data Factory, Azure Databricks, and SQL Server  
+- Skilled in data modeling, ETL pipeline optimization, and data quality management  
+- Passionate about scalable architectures and performance tuning  
+- Experienced in full-stack development using React, Node.js, and MongoDB  
+- Enjoy collaborating with cross-functional teams to deliver impactful solutions  
 
 ---
 
-## 🏗️ Projects
+### 🛠️ Languages and Tools  
 
-- **Azure Data Pipeline Studio** — Designed end-to-end ETL workflows using Azure Data Factory and Databricks, integrated with Power BI for actionable insights.  
-- **MERN Inventory Management System** — Built a secure full-stack system with role-based access, CRUD operations, and RESTful APIs.  
-- **Business Intelligence Dashboard** — Developed interactive Power BI reports showcasing KPIs, trends, and DAX-driven metrics.  
-- **IoT Analytics Platform** — Implemented real-time streaming and PySpark transformations for sensor-based analytics.
+<div align="center">
+
+<!-- Cloud & Data -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" alt="Databricks" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+
+<!-- Programming -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+
+<!-- Office & BI -->
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau" />
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=wasimakram17&theme=tokyonight&hide_border=true" height="150" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wasimakram17&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasimakram17&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<!-- Tech Stack Badges -->
+  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
 
 ---
 
-## 🧠 Learning
-
-- Azure Databricks  
-- PySpark  
+### ⚡ Fun Fact  
+I automate everything — from data pipelines to my morning coffee brewing schedule ☕  
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-<p>
-  <a href="https://linkedin.com/in/wasimakram17">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:wasimxcloud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🌐 Connect With Me  
+
+<a href="mailto:wasimxcloud@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" height="40" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/wasimxcloud"><img src="https://img.icons8.com/color/48/linkedin-circled--v5.png" height="40" alt="LinkedIn" /></a>
+<a href="https://github.com/wasimxcloud"><img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="GitHub" /></a>
 
 </div>
