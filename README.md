@@ -1,7 +1,7 @@
 # ✨ Wasim Akram
 
-**Azure Data Engineer · MERN Developer**
-Building scalable data pipelines, analytics solutions, and full-stack applications.
+**Azure Data Engineer · MERN Developer**  
+Designing scalable data pipelines, analytical solutions, and full‑stack web applications.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Azure+Data+Engineer;MERN+Developer;Data+Pipelines+%26+Lakehouse+Design;Azure+%7C+Databricks+%7C+PySpark+%7C+MERN" />
@@ -11,9 +11,9 @@ Building scalable data pipelines, analytics solutions, and full-stack applicatio
 
 ## 🌟 About Me
 
-Cloud-native data engineer and MERN developer focused on scalable ETL/ELT pipelines, analytics platforms, and modern full-stack applications. Experienced in Azure, Databricks, and lakehouse architecture.
+Cloud‑native data engineer and full‑stack developer specializing in building scalable ETL/ELT pipelines, analytics platforms, and modern web applications. Skilled in Azure, Databricks, and lakehouse architectures with a focus on performance and reliability.
 
-**Specialties:** ETL/ELT · PySpark · Azure Data Engineering · Databricks · Lakehouse · Power BI · REST APIs · CI/CD
+**Core Skills:** ETL/ELT · PySpark · Azure Data Engineering · Databricks · Lakehouse · Power BI · REST APIs · CI/CD
 
 ---
 
@@ -38,10 +38,10 @@ Cloud-native data engineer and MERN developer focused on scalable ETL/ELT pipeli
 
 ## 🏗️ Featured Projects
 
-* **Azure Data Pipeline Studio** — Orchestrated ETL using ADF + Databricks with Power BI dashboards.
-* **MERN Inventory System** — Role-based authentication, CRUD operations, REST APIs.
-* **BI Sales Dashboard** — Centralized KPIs, performance trends, advanced DAX.
-* **IoT Analytics Platform** — Streaming pipelines, PySpark transformations, real-time insights.
+* **Azure Data Pipeline Studio** — Developed end‑to‑end ETL processes using Azure Data Factory and Databricks, integrated with Power BI dashboards for business insights.  
+* **MERN Inventory Management System** — Built a secure full‑stack application with role‑based access, CRUD operations, and RESTful APIs.  
+* **Business Intelligence Dashboard** — Designed interactive Power BI reports displaying KPIs, trends, and advanced DAX calculations.  
+* **IoT Analytics Platform** — Implemented real‑time data streaming and PySpark transformations for sensor‑based analytics.
 
 ---
 
@@ -58,8 +58,8 @@ Cloud-native data engineer and MERN developer focused on scalable ETL/ELT pipeli
 
 ## 🧠 Currently Learning
 
-* Databricks
-* PySpark
+* Azure Databricks  
+* PySpark  
 
 ---
 
