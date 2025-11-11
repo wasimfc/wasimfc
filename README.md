@@ -64,7 +64,7 @@ I automate everything — from data pipelines to my morning coffee brewing sched
 ### 🌐 Connect With Me  
 
 <a href="mailto:wasimxcloud@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" height="40" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/wasimxcloud"><img src="https://img.icons8.com/color/48/linkedin-circled--v5.png" height="40" alt="LinkedIn" /></a>
-<a href="https://github.com/wasimxcloud"><img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/wasimakram17"><img src="https://img.icons8.com/color/48/linkedin-circled--v5.png" height="40" alt="LinkedIn" /></a>
+<a href="https://github.com/wasimfc"><img src="https://img.icons8.com/fluency/48/github.png" height="40" alt="GitHub" /></a>
 
 </div>
