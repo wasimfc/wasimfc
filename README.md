@@ -1,4 +1,4 @@
-<div style="color:#00022e; text-align: left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div style="color:#00022e; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 # ✨ Wasim Akram
 
