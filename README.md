@@ -44,6 +44,12 @@ Full Stack Developer & Azure Data Engineer with 1+ years of experience in React,
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau" />
 
+<!-- MERN -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+
 </div>
 
 ---
